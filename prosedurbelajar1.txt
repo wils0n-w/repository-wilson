@@ -1,5 +1,6 @@
-Pembelajar Valorant
+Pembelajaran Valorant
 - Smokes
 - Crosshair Placement
 - Movement
 - Gamesense
+- Skins
